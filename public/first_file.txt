@@ -1,1 +1,2 @@
 This is first file to test the git.
+This is some editions going on.
