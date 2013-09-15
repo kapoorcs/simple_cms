@@ -1,3 +1,14 @@
+Simple CMS Introductory Development Guide
+
+Introduction
+
+Welcome to the introductory Simple CMS development guide! The goal of this guide is to familiarize a developer with the Simple CMS codebase so that he or she feels comfortable getting started with development. This guide will cover the following:
+
+	. Technology Used
+	. How To Set Up Your Dev Environment
+	. Directory Layout
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
