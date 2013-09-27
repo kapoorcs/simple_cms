@@ -9,9 +9,7 @@ Welcome to the introductory Simple CMS development guide! The goal of this guide
 2) How To Set Up Your Dev Environment:
 
 3) Directory Layout
-	. Technology Used
-	. How To Set Up Your Dev Environment
-	. Directory Layout
+
 
 
 == Welcome to Rails
