@@ -13,7 +13,7 @@ Welcome to the introductory Simple CMS development guide! The goal of this guide
 After covering each one of these aspects, a developer should have a detailed understanding of how the Simple CMS works, best practices when contributing to the Simple CMS codebase, and which parts of the codebase are responsible for each part of the Simple CMS application.
 
 
-Infrastructure Overview and Data Flow
+== Infrastructure Overview and Data Flow
 
 == Welcome to Rails
 
